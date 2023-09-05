@@ -1,5 +1,3 @@
- -- WEEK 3 BASIC QUERIES EXERCISE
-
 -- using database
 USE 3_odds;
 
