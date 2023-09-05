@@ -62,4 +62,4 @@ In this exercise, I answered the following questions and performed the following
 
 [Here](3_odds_database_erd.png) is the Entity Relationship Diagram (ERD) depicting the structure of the "3_odds" database.
 
-Please feel free to explore the exercises and utilize them for your SQL learning journey!
+Please feel free to explore the exercises!
