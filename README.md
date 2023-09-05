@@ -60,6 +60,6 @@ In this exercise, I answered the following questions and performed the following
 3. Developed a procedure to provide information on the 10 best-selling items in 2004.
 4. Created a query to count the number of orders that were sent (status = 'Shipped') and orders that were canceled (status = 'Cancelled').
 
-[Here](url) is the Entity Relationship Diagram (ERD) depicting the structure of the "3_odds" database.
+[Here](3_odds_database_erd.png) is the Entity Relationship Diagram (ERD) depicting the structure of the "3_odds" database.
 
 Please feel free to explore the exercises and utilize them for your SQL learning journey!
