@@ -2,7 +2,7 @@
 
 This repository consists of SQL class exercises completed during a 1-month SQL class conducted by Pacmann. All exercises utilize a single database named "3_odds." Below is a breakdown of each exercise:
 
-### 3rd Meeting - Basic Queries Exercises
+### [3rd Meeting - Basic Queries Exercises](3rd_meet_basic_queries_exercise.sql)
 
 In this exercise, I answered the following questions and performed the following tasks:
 
