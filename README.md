@@ -1,0 +1,1 @@
+# sql_miniProject_basicQueries
