@@ -1,4 +1,4 @@
--- WEEK 6 SUBQUERY EXERCISE
+-- 6th MEET, SUBQUERY EXERCISE
 
 -- using database
 USE 3_odds;
