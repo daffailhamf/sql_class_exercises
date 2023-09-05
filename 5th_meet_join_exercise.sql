@@ -1,4 +1,4 @@
--- WEEK 5 SQL JOIN EXERCISE
+-- 5th MEET, SQL JOIN EXERCISE
 
 -- using database
 USE 3_odds;
