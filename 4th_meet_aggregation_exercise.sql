@@ -1,4 +1,4 @@
--- WEEK 4 AGGREGATION EXERCISE
+-- 4th MEET, AGGREGATION EXERCISE
 
 -- using database
 USE 3_odds;
