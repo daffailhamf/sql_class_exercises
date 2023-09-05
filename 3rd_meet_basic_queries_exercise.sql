@@ -1,4 +1,4 @@
- --  3rd MEET, BASIC QUERIES EXERCISE
+--  3rd MEET, BASIC QUERIES EXERCISE
 
 -- using database
 USE 3_odds;
