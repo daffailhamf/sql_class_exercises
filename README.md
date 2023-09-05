@@ -13,7 +13,7 @@ In this exercise, I answered the following questions and performed the following
 5. Display the three cheapest products (by MSRP) from the product lines "classic cars" and "vintage."
 6. Identify 10 products that will generate the most profit for the company if the selling price follows the vendor's recommendation (profit = revenue - selling price of the product).
 
-### 4th Meeting - Aggregation Exercises
+### [4th Meeting - Aggregation Exercises](4th_meet_aggregation_exercise.sql)
 
 In this exercise, I answered the following questions and performed the following tasks:
 
@@ -25,7 +25,7 @@ In this exercise, I answered the following questions and performed the following
 6. Calculate the average credit limit of customers from cities in Germany and France.
 7. Present information on the top three countries with the highest percentage of customers.
 
-### 5th Meeting - Join Exercises
+### [5th Meeting - Join Exercises](5th_meet_join_exercise.sql)
 
 In this exercise, I answered the following questions and performed the following tasks:
 
@@ -35,7 +35,7 @@ In this exercise, I answered the following questions and performed the following
 4. Identify products selling for 20 percent below the vendor's recommended price.
 5. Provide information about customers who have placed orders, along with the names and quantities of products ordered.
 
-### 6th Meeting - Subquery Exercises
+### [6th Meeting - Subquery Exercises](6th_meet_subquery_exercise.sql)
 
 In this exercise, I answered the following questions and performed the following tasks:
 
@@ -47,7 +47,7 @@ In this exercise, I answered the following questions and performed the following
 6. Determine the day on which most payment processes take place among all payment data.
 7. Utilize CTE to create a query displaying data on the top 5 employees who generated the most sales in 2003 (assuming the order status is 'shipped').
 
-### 7th Meeting - Functions and Procedures Exercises
+### [7th Meeting - Functions and Procedures Exercises](7th_meet_functions_and_procedures_exercise.sql)
 
 In this exercise, I answered the following questions and performed the following tasks:
 
